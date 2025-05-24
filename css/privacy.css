@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h5 {
+    color: #6c757d;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+}
+
+/* Styling for buttons */
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
