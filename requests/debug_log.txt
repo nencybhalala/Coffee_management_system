@@ -1,0 +1,2421 @@
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Received Data:
+Array
+(
+    [pid] => 32
+    [pname] => Berries-Vanilla Smoothie
+    [pimage] => http://localhost/scoffee/images/smoothies/smoothie5.jpg
+    [pprice] => 15 
+    [pqty] => 1
+    [toppings] => 
+    [action] => add
+)
+Received Data:
+Array
+(
+    [pid] => 32
+    [pname] => 
+                        Berries-Vanilla Smoothie                    
+    [pimage] => ./images/smoothies/smoothie5.jpg
+    [pprice] =>  
+                                15 
+                            
+    [pqty] =>  1 
+    [toppings] => Array
+        (
+            [0] => crushed oreos
+        )
+
+    [action] => add
+)
+Received Data:
+Array
+(
+    [product_id] => 
+    [action] => remove
+)
+Received Data:
+Array
+(
+    [product_id] => 
+    [action] => remove
+)
+Received Data:
+Array
+(
+)
+Received Data:
+Array
+(
+)
+Received Data:
+Array
+(
+)
+Received Data:
+Array
+(
+)
+Received Data:
+Array
+(
+    [pid] => 29
+    [pname] => Blueberry-Banana Smoothies
+    [pimage] => http://localhost/scoffee/images/smoothies/smoothie2.jpg
+    [pprice] => 15
+    [pqty] => 1
+    [toppings] => 
+    [action] => add
+)
+Received Data:
+Array
+(
+    [product_id] => 
+    [action] => remove
+)
+Received Data:
+Array
+(
+    [product_id] => 29
+    [action] => remove
+)
+Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+    [shipping] => 0
+)
+Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+    [shipping] => 0
+)
+Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+)
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+    [shipping] => 0
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+    [shipping] => 0
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 3
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 45
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 60
+    [shipping] => 0
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => 
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => strawberries
+                            [1] => marshmello
+                            [2] => walnut
+                            [3] => sprinkled chocolate chips
+                        )
+
+                    [toppings_price] => 8
+                    [product_total] => 23
+                )
+
+        )
+
+    [shopping_cart_total] => 23
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 44
+                    [product_name] => 
+                    Twix Milkshake                
+                    [product_image] => ./images/milkshakes/milkshake2.jpg
+                    [product_price] => 20
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => marshmello
+                            [1] => walnut
+                        )
+
+                    [toppings_price] => 4
+                    [product_total] => 24
+                )
+
+        )
+
+    [shopping_cart_total] => 24
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 40
+                    [product_name] => 
+                    Peach Juice                
+                    [product_image] => ./images/juices/juice4.jpg
+                    [product_price] => 10
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => colored cornflakes
+                            [1] => granola
+                            [2] => white chocolate chips
+                        )
+
+                    [toppings_price] => 6
+                    [product_total] => 16
+                )
+
+        )
+
+    [shopping_cart_total] => 16
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => strawberries
+                            [1] => sprinkles
+                            [2] => M&Ms
+                            [3] => crushed oreos
+                        )
+
+                    [toppings_price] => 6
+                    [product_total] => 21
+                )
+
+        )
+
+    [shopping_cart_total] => 21
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => mango
+                            [1] => gummy bears
+                            [2] => walnut
+                            [3] => brownie bites
+                        )
+
+                    [toppings_price] => 8
+                    [product_total] => 23
+                )
+
+        )
+
+    [shopping_cart_total] => 23
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => goji berries
+                            [1] => M&Ms
+                            [2] => pepitas
+                            [3] => crushed oreos
+                        )
+
+                    [toppings_price] => 8
+                    [product_total] => 23
+                )
+
+        )
+
+    [shopping_cart_total] => 23
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => chocolate chips
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 43
+                    [product_name] => 
+                    Chocolate Bomb                
+                    [product_image] => ./images/milkshakes/milkshake1.jpg
+                    [product_price] => 20
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => sprinkles
+                            [1] => almonds
+                        )
+
+                    [toppings_price] => 4
+                    [product_total] => 24
+                )
+
+        )
+
+    [shopping_cart_total] => 24
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => blueberries
+                            [1] => coconut
+                            [2] => crushed oreos
+                        )
+
+                    [toppings_price] => 6
+                    [product_total] => 21
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 21
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => goji berries
+                            [1] => blueberries
+                            [2] => pepitas
+                            [3] => white chocolate chips
+                        )
+
+                    [toppings_price] => 8
+                    [product_total] => 23
+                )
+
+        )
+
+    [shopping_cart_total] => 23
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 40
+                    [product_name] => 
+                    Peach Juice                
+                    [product_image] => ./images/juices/juice4.jpg
+                    [product_price] => 10
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => goji berries
+                            [1] => sprinkles
+                            [2] => pepitas
+                            [3] => chocolate chips
+                        )
+
+                    [toppings_price] => 8
+                    [product_total] => 18
+                )
+
+        )
+
+    [shopping_cart_total] => 18
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => chocolate
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 48
+                    [product_name] => 
+                    Black coffee                
+                    [product_image] => ./images/coffee/coffee2.jpg
+                    [product_price] => 5
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 5
+                )
+
+        )
+
+    [shopping_cart_total] => 5
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 37
+                    [product_name] => 
+                    Orange Juice                
+                    [product_image] => ./images/juices/juice10.jpg
+                    [product_price] => 10
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 10
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 10
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => white chocolate chips
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => chocolate
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 34
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => orange
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => dark chocolate
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => chocolate
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 34
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => cookies
+                        )
+
+                    [toppings_price] => 1
+                    [product_total] => 16
+                )
+
+        )
+
+    [shopping_cart_total] => 16
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [cart_page] => not empty
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => cookies
+                        )
+
+                    [toppings_price] => 1
+                    [product_total] => 16
+                )
+
+        )
+
+    [shopping_cart_total] => 16
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => cookies
+                        )
+
+                    [toppings_price] => 1
+                    [product_total] => 16
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 16
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => orange
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => sour gummy
+                        )
+
+                    [toppings_price] => 1
+                    [product_total] => 16
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 16
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => orange
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => Dragon Fruit Smoothie
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => Dragon Fruit Smoothie
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => orange
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => Dragon Fruit Smoothie
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => Dragon Fruit Smoothie
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 4
+                    [product_toppings] => Array
+                        (
+                            [0] => blueberries
+                        )
+
+                    [toppings_price] => 1
+                    [product_total] => 61
+                )
+
+        )
+
+    [shopping_cart_total] => 61
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => Dragon Fruit Smoothie
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 3
+                    [product_toppings] => Array
+                        (
+                            [0] => chocolate
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 47
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 47
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 30
+                    [product_name] => 
+                    Dragon Fruit Smoothie                
+                    [product_image] => ./images/smoothies/smoothie3.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => Berries-Vanilla Smoothie
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => crushed oreos
+                        )
+
+                    [toppings_price] => 2
+                    [product_total] => 17
+                )
+
+        )
+
+    [shopping_cart_total] => 17
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [user_id] => 5
+    [name] => nency bhalala
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => Blueberry-Almond Smoothie
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 15
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 15
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 15
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 6
+    [name] =>  
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 150
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => orange
+                        )
+
+                    [toppings_price] => 50
+                    [product_total] => 200
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 200
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 32
+                    [product_name] => 
+                    Berries-Vanilla Smoothie                
+                    [product_image] => ./images/smoothies/smoothie5.jpg
+                    [product_price] => 210
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => sour gummy
+                            [1] => granola
+                        )
+
+                    [toppings_price] => 220
+                    [product_total] => 430
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 430
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 48
+                    [product_name] => 
+                    Black coffee                
+                    [product_image] => ./images/coffee/coffee2.jpg
+                    [product_price] => 200
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => granola
+                        )
+
+                    [toppings_price] => 60
+                    [product_total] => 260
+                )
+
+        )
+
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [shopping_cart_total] => 260
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [cart_page] => not empty
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 43
+                    [product_name] => 
+                    Chocolate Bomb                
+                    [product_image] => ./images/milkshakes/milkshake1.jpg
+                    [product_price] => 250
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => sour gummy
+                            [1] => brownie bites
+                        )
+
+                    [toppings_price] => 90
+                    [product_total] => 340
+                )
+
+        )
+
+    [shopping_cart_total] => 340
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 37
+                    [product_name] => 
+                    Orange Juice                
+                    [product_image] => ./images/juices/juice10.jpg
+                    [product_price] => 100
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => apple
+                            [1] => sour gummy
+                            [2] => cookies
+                        )
+
+                    [toppings_price] => 160
+                    [product_total] => 260
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart_total] => 260
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 44
+                    [product_name] => 
+                    Twix Milkshake                
+                    [product_image] => ./images/milkshakes/milkshake2.jpg
+                    [product_price] => 200
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => brownie bites
+                        )
+
+                    [toppings_price] => 40
+                    [product_total] => 240
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 41
+                    [product_name] => 
+                    Lemonade Juice                
+                    [product_image] => ./images/juices/juice5.jpg
+                    [product_price] => 200
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                            [0] => honey
+                        )
+
+                    [toppings_price] => 55
+                    [product_total] => 255
+                )
+
+        )
+
+    [shopping_cart_total] => 495
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 48
+                    [product_name] => 
+                    Black coffee                
+                    [product_image] => ./images/coffee/coffee2.jpg
+                    [product_price] => 200
+                    [product_quantity] => 2
+                    [product_toppings] => Array
+                        (
+                            [0] => dark chocolate
+                        )
+
+                    [toppings_price] => 25
+                    [product_total] => 425
+                )
+
+        )
+
+    [shopping_cart_total] => 425
+)
+
+SESSION DATA: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_image] => person1.jpeg
+    [user_id] => 5
+    [name] =>  
+    [wishlist] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 38
+                    [product_name] => Pomegranate Juice
+                    [product_image] => ./images/juices/juice2.jpg
+                    [product_price] => 50
+                )
+
+        )
+
+    [cart_page] => not empty
+    [shopping_cart] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 33
+                    [product_name] => 
+                    Blueberry-Almond Smoothie                
+                    [product_image] => ./images/smoothies/smoothie6.jpg
+                    [product_price] => 150
+                    [product_quantity] => 1
+                    [product_toppings] => Array
+                        (
+                        )
+
+                    [toppings_price] => 0
+                    [product_total] => 150
+                )
+
+        )
+
+    [shopping_cart_total] => 150
+)
+
